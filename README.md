@@ -52,7 +52,7 @@ This project analyzes supply chain logistics data to evaluate operational perfor
 
 ## Dashboard Preview
 
-*(supply-chain-logistics-dashboard.png)*
+*<img width="1365" height="767" alt="supply-chain-logistics-dashboard" src="https://github.com/user-attachments/assets/4f1dba30-d11a-49c3-8c30-523e2c04fb21" />)*
 
 ---
 
