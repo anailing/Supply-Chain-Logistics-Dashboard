@@ -62,6 +62,24 @@ This project analyzes supply chain logistics data to evaluate operational perfor
 - `supply-chain-logistics-dataset.twb`
 - `supply-chain-logistics-dashboard.png`
 
+  ---
+
+## Repository Structure
+
+```text
+supply-chain-risk-logistics-dashboard
+│
+├── dashboards
+│   └── supply-chain-dashboard.png
+│
+├── sql
+│   └── supply-chain-logistics-queries.sql
+│
+├── tableau
+│   └── supply-chain-risk-logistics-dashboard.twbx
+│
+└── README.md
+
 ---
 
 ## Project Objective
