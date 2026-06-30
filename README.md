@@ -67,5 +67,8 @@ This project analyzes supply chain logistics data to evaluate operational perfor
 ## Project Objective
 The goal of this project was to demonstrate an end-to-end data analytics workflow by transforming raw logistics data into actionable business insights through SQL querying and interactive Tableau dashboard development.
 
-# Author
-Alexis Nailing
+## Author
+
+**Alexis Nailing**
+
+Aspiring Data Analyst | SQL | Tableau | Excel
