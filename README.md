@@ -1,4 +1,4 @@
-# Supply Chain Risk & Logistics Dashboard
+# Supply Chain & Logistics Dashboard
 
 ## Project Overview
 This project analyzes supply chain logistics data to evaluate operational performance across different risk classifications. Using SQL Server for data analysis and Tableau for visualization, the dashboard highlights key logistics metrics that help identify operational trends and potential risk factors affecting supply chain efficiency.
@@ -59,8 +59,8 @@ This project analyzes supply chain logistics data to evaluate operational perfor
 ## 📂 Project Files
 
 - `supply-chain-logistics-queries.sql`
-- `Supply Chain Risk & Logistics Dashboard.twb`
-- `Supply Chain Risk & Logistics Dashboard.png`
+- `supply-chain-logistics-dataset.twb`
+- `supply-chain-logistics-dashboard.png`
 
 ---
 
