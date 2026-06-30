@@ -56,10 +56,11 @@ This project analyzes supply chain logistics data to evaluate operational perfor
 
 ---
 
-## Project Files
+## 📂 Project Files
+
 - `supply-chain-logistics-queries.sql`
 - `Supply Chain Risk & Logistics Dashboard.twb`
-- Dashboard Screenshot (.png)
+- `Supply Chain Risk & Logistics Dashboard.png`
 
 ---
 
